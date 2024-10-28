@@ -1,0 +1,88 @@
+[
+    {
+        "studentId": "101",
+        "name": "Dan Wang",
+        "departments": ["法律"],
+        "courses": [
+            { "courseName": "憲法總則", "point": 3 },
+            { "courseName": "勞動法", "point": 2 },
+            { "courseName": "投資學", "point": 3 }
+        ],
+        "grade": 4,
+        "chineseScore": 74,
+        "mathScore": 90,
+        "job": {
+            "jobName": "衛生股長",
+            "primary": null
+        },
+        "introduction": "I am a Law major and I have also taken courses in investment. I have a keen interest in accounting and finance, and I am eager to apply my knowledge in these areas.",
+        "englishTestIssuedDate": "2023-10-25",
+        "bloodType": "B",
+        "phoneNumbers": [
+            "0909123456"
+        ]
+    },
+    {
+        "studentId": "102",
+        "name": "Malinda Lai",
+        "departments": ["會計"],
+        "courses": [
+            { "courseName": "會計學", "point": 5 },
+            { "courseName": "經濟學", "point": 4 },
+            { "courseName": "資源規劃", "point": 3 }
+        ],
+        "grade": 3,
+        "chineseScore": 83,
+        "mathScore": 65,
+        "job": {
+            "jobName": "班長"
+        },
+        "introduction": "Accounting work can be done by technology recently. So I start learning programming on internet.",
+        "englishTestIssuedDate": "2024-10-28",
+        "bloodType": "AB"
+    },
+    {
+        "studentId": "103",
+        "name": "Vincent Tsai",
+        "departments": ["資訊管理", "財務金融"],
+        "courses": [
+            { "courseName": "計算機概論", "point": 3 },
+            { "courseName": "程式設計", "point": 4 },
+            { "courseName": "投資學", "point": 3 },
+            { "courseName": "會計學", "point": 1 }
+        ],
+        "grade": 2,
+        "chineseScore": 86,
+        "mathScore": 70,
+        "job": {
+            "jobName": "風紀股長",
+            "primary": true
+        },
+        "introduction": "I have a blog used to record what I learned in my whole career. All of them are about information technology and programming stuffs.",
+        "englishTestIssuedDate": "2023-03-01",
+        "bloodType": "O",
+        "phoneNumbers": [
+            "0909456666",
+            "0909789888"
+        ]
+    },
+    {
+        "studentId": "104",
+        "name": "William Chang",
+        "departments": ["企業管理"],
+        "courses": [
+            { "courseName": "會計學", "point": 3 },
+            { "courseName": "商業概論", "point": 2 }
+        ],
+        "grade": 1,
+        "chineseScore": 71,
+        "mathScore": 40,
+        "job": {
+            "jobName": "班長",
+            "primary": false
+        },
+        "introduction": "To lead a team in company in career, we should learn to lead students in university first.",
+        "englishTestIssuedDate": "2024-07-15",
+        "phoneNumbers": []
+    }
+]
